@@ -1,0 +1,21 @@
+
+.stars {
+    font-size: 55px;
+    color: gray;
+    cursor: pointer;
+}
+
+.stars:hover,
+.star.checked {
+    color: gold;
+}
+
+.rated {
+    color: gold;
+}
+
+
+.pattern-box {
+    font-size: 30px;
+}
+
